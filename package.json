@@ -31,6 +31,7 @@
         "@types/react": "^19.2.0",
         "@types/react-dom": "^19.2.0",
         "@vitejs/plugin-react": "^6.1.1",
+        "apexcharts": "^8.7.0",
         "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
         "concurrently": "^10.0.3",
@@ -38,6 +39,7 @@
         "laravel-vite-plugin": "^3.0.0",
         "lucide-react": "^0.475.0",
         "react": "^19.2.0",
+        "react-apexcharts": "^2.2.0",
         "react-dom": "^19.2.0",
         "sonner": "^2.0.0",
         "tailwind-merge": "^3.0.1",
@@ -47,11 +49,14 @@
         "vite": "^8.0.0"
     },
     "devDependencies": {
+        "@laravel/echo-react": "^2.6.3",
         "@laravel/vite-plugin-wayfinder": "^0.1.3",
         "@rolldown/plugin-babel": "^0.2.3",
         "@types/node": "^22.13.5",
         "babel-plugin-react-compiler": "^1.0.0",
-        "vite-plus": "0.3.0"
+        "laravel-echo": "^2.6.3",
+        "pusher-js": "^8.6.0",
+        "vite-plus": "^1.5.0"
     },
     "optionalDependencies": {
         "@laravel/multiplex": "^0.4.1",
